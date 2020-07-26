@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Manifest>
 	<identifier>Muesli</identifier>
-	<version>0.1</version>
+	<version>0.2</version>
 	<dependencies />
 	<incompatibleWith />
 	<suggests>
 		<li>CP.Vegan.Survival.Meals</li>
 		<li>ConZ.VegMeals</li>
 	</suggests>
+	<showCrossPromotions>true</showCrossPromotions>
 	<downloadUri>https://github.com/meldra/rimworldmod-muesli/releases</downloadUri>
 </Manifest>
