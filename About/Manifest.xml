@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <Manifest>
 	<identifier>Muesli</identifier>
-	<version>0.3</version>
+	<version>0.4</version>
 	<dependencies />
-	<incompatibleWith />
+	<incompatibleWith>
+		<li>elkyelky.Muesli.Plus</li>
+	</incompatibleWith>
 	<suggests>
 		<li>CP.Vegan.Survival.Meals</li>
 		<li>ConZ.VegMeals</li>

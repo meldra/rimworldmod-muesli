@@ -13,15 +13,18 @@ This is intended to be like a vegan version of pemmican for those who want an ea
 
 Since cereal is less calorie dense than meat and fat, the nutritional value is slightly lower and work needed is slightly higher. It also costs less.
 
-This should be safe to add to an existing game, but this is my first mod so buyer beware.
-
-Credits: the defs for this are based on a variety of other food mods to the point I lost track, but initially based on the vegan survival meals by chicken plucker with some guidance from ConZ' vegetarian meals, crustypeanut's rimcuisine 2 core, and one of the various incarnations of the smoked meat mod.
+This should be safe to add to an existing game. It does not even attempt compatability with other mods, for that please check out Muesli+ (). My Muesli mods are not compatible with each other.
 
 github: https://github.com/meldra/rimworldmod-muesli
 
 If you want a mod that has the whole set of vegan stove-craftable meals, check out my other mod Beyond Impossible Meals: https://steamcommunity.com/sharedfiles/filedetails/?id=2177980416
 
+Credits: This was my first mod, so I pulled a lot from existing mods to the point I lost track, but is more or less initially based on the vegan survival meals by chicken plucker with some guidance from ConZ' vegetarian meals, crustypeanut's rimcuisine 2 core, and one of the various incarnations of the smoked meat mod.
+
 If you want to thank me with more than just words, hit up my ko-fi: https://ko-fi.com/elkyelky 
 
     </description>
+	<incompatibleWith>
+		<li>elkyelky.Muesli.Plus</li>
+	</incompatibleWith>
 </ModMetaData>
